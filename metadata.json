@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Mom",
+  "description": "A heartfelt birthday celebration website for Mom featuring animated transitions, memory gallery, quips & lessons, and a secure Word from Alpha letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
